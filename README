@@ -1,0 +1,9 @@
+Description
+
+Choosable is easy to setup and use, and was designed to be as modular as possible to allow the user to simply call one method in order to give them the ability to hide columns in an HTML table.
+
+Usage
+
+<script>
+	$('#table_name').choosable();
+</script>
